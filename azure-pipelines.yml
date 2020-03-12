@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '8c69105c-8f12-4b98-9b49-0843c9318b05'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'Drought_Prediction'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
