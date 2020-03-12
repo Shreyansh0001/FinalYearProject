@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: '8c69105c-8f12-4b98-9b49-0843c9318b05'
   
   # Web app name
-  webAppName: 'Drought_Prediction'
+  webAppName: 'app_deployment'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'MyAppDeployment'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
